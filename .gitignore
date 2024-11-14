@@ -1,1 +1,10 @@
 /git_ignore_long.txt
+
+*.db
+
+*.log
+
+*/target/
+
+*/bin/
+
